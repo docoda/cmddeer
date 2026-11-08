@@ -1,0 +1,59 @@
+name: Shortcut or feature idea
+description: Suggest a new Mac shortcut or an improvement.
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Which Mac habit is still missing on Windows? Deutsch ist auch willkommen.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of idea?
+      options:
+        - New shortcut
+        - Change an existing shortcut
+        - Other feature
+    validations:
+      required: true
+
+  - type: input
+    id: mac_shortcut
+    attributes:
+      label: Mac shortcut
+      description: The keys you press on the Mac.
+      placeholder: ⌘⇧T
+    validations:
+      required: false
+
+  - type: input
+    id: windows_action
+    attributes:
+      label: What should happen on Windows?
+      placeholder: Reopen the last closed tab (Ctrl+Shift+T)
+    validations:
+      required: false
+
+  - type: input
+    id: apps
+    attributes:
+      label: In which apps do you need it?
+    validations:
+      required: false
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Anything else that helps to understand the idea.
+    validations:
+      required: false
+
+  - type: input
+    id: version
+    attributes:
+      label: CmdDeer version
+    validations:
+      required: false

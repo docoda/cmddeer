@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Privacy policy
+    url: https://github.com/docoda/cmddeer/blob/main/PRIVACY.md
+    about: What CmdDeer does (and does not do) with your data.

@@ -27,8 +27,8 @@ equivalents (Ctrl+C). To do that, it has to look at the keys you press.
 
 The buttons "Report a bug" and "Suggest a shortcut or idea" open a form on GitHub in your web
 browser. A bug report is prefilled with the CmdDeer version, the Windows version and
-architecture, and your CmdDeer settings (Cmd key, language, enabled shortcuts). The app shows
-these details before you click. Nothing is sent until you submit the form yourself, and you can
+architecture, and your CmdDeer settings (Cmd key, language, enabled shortcuts). You see these
+details in the form. Nothing is sent until you submit the form yourself, and you can
 edit or remove anything first. Issues on GitHub are public and handled by GitHub under its own
 privacy policy. Key presses are never included.
 
@@ -79,8 +79,8 @@ Dafür muss die App sehen, welche Tasten gedrückt werden.
 
 Die Buttons „Fehler melden“ und „Shortcut oder Idee vorschlagen“ öffnen ein Formular auf GitHub
 in deinem Browser. Ein Fehlerbericht ist vorausgefüllt mit der CmdDeer-Version, Windows-Version
-und -Architektur sowie deinen CmdDeer-Einstellungen (Cmd-Taste, Sprache, aktive Shortcuts). Die
-App zeigt diese Angaben vor dem Klick an. Gesendet wird erst, wenn du das Formular selbst
+und -Architektur sowie deinen CmdDeer-Einstellungen (Cmd-Taste, Sprache, aktive Shortcuts). Du siehst
+diese Angaben im Formular. Gesendet wird erst, wenn du das Formular selbst
 abschickst, vorher kannst du alles ändern oder entfernen. Issues auf GitHub sind öffentlich und
 werden von GitHub nach dessen eigener Datenschutzerklärung verarbeitet. Tastendrücke sind nie
 enthalten.

@@ -1,6 +1,6 @@
 # CmdDeer Privacy Policy
 
-_Last updated: <!-- TODO: date of publication --> · Deutsche Fassung unten._
+_Last updated: 9 November 2026 · Deutsche Fassung unten._
 
 CmdDeer translates Mac-style keyboard shortcuts (for example ⌘C) into their Windows
 equivalents (Ctrl+C). To do that, it has to look at the keys you press.
@@ -45,14 +45,22 @@ Uninstalling CmdDeer removes the app and its settings file.
 ## Changes and contact
 
 If CmdDeer's behaviour regarding your data changes, this policy will be updated first.
-Questions: <!-- TODO: contact e-mail or the GitHub issues page --> or
-[github.com/docoda/cmddeer/issues](https://github.com/docoda/cmddeer/issues).
+Questions: open an issue at
+[github.com/docoda/cmddeer/issues](https://github.com/docoda/cmddeer/issues) or write to the
+person responsible for CmdDeer:
+
+docoda – Inhaber Dominik Daume\
+Dominik Daume\
+c/o POSTFLEX PFX-638-746\
+Emsdettener Straße 10\
+48268 Greven\
+Germany
 
 ---
 
 # Datenschutzerklärung für CmdDeer
 
-_Stand: <!-- TODO: Datum der Veröffentlichung -->_
+_Stand: 9. November 2026_
 
 CmdDeer übersetzt Tastenkürzel im Mac-Stil (z. B. ⌘C) in ihre Windows-Entsprechung (Strg+C).
 Dafür muss die App sehen, welche Tasten gedrückt werden.
@@ -99,5 +107,13 @@ Beim Deinstallieren werden die App und ihre Einstellungsdatei entfernt.
 ## Änderungen und Kontakt
 
 Ändert sich der Umgang von CmdDeer mit Daten, wird zuerst diese Erklärung aktualisiert.
-Fragen: <!-- TODO: Kontakt-E-Mail oder GitHub-Issues --> oder
-[github.com/docoda/cmddeer/issues](https://github.com/docoda/cmddeer/issues).
+Fragen: als Issue unter
+[github.com/docoda/cmddeer/issues](https://github.com/docoda/cmddeer/issues) oder per Post an den
+Verantwortlichen:
+
+docoda – Inhaber Dominik Daume\
+Dominik Daume\
+c/o POSTFLEX PFX-638-746\
+Emsdettener Straße 10\
+48268 Greven\
+Deutschland
